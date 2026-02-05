@@ -76,7 +76,7 @@ const Editor: React.FC<Props> = ({ data, onChange, onExport, exportProgress, exp
       )}
 
       <div className="flex justify-between items-center border-b pb-4 pt-4">
-        <h3 className="text-xl font-bold text-gray-800 tracking-tight">Configuración del Carné</h3>
+        <h3 className="text-xl font-bold text-gray-800 tracking-tight">Configuración del Carnet</h3>
         <div className="text-[10px] font-black text-slate-400 bg-slate-100 px-2 py-1 rounded uppercase tracking-widest">Modo Editor</div>
       </div>
       
