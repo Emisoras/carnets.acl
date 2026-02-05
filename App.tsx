@@ -168,7 +168,7 @@ const App: React.FC = () => {
           <span className="text-[10px] font-black text-red-800 uppercase tracking-widest">Herramienta Institucional</span>
         </div>
         <h1 className="text-4xl font-brand font-black text-slate-900 tracking-tight">
-          Carné Digital <span className="text-red-800">ACL</span>
+          Carnet Digital <span className="text-red-800">ACL</span>
         </h1>
         <h1 className="text-2xl font-brand font-black text-slate-900 tracking-tight">
           Asociación Colombiana de Locutores y Comunicadores
